@@ -88,7 +88,7 @@ export default function Contact() {
 
   // Open Google Maps
   const handleViewOnMap = () => {
-    const mapUrl = "https://maps.app.goo.gl/jdquqvR9QqGMWywF9";
+    const mapUrl = "https://maps.app.goo.gl/5hETwq2JQdRK3F5b8?g_st=iw";
     window.open(mapUrl, "_blank");
   };
 
